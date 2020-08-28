@@ -1,0 +1,14 @@
+F:\Vehicletrack\VehicleProject\VehicleProject\obj\Debug\netcoreapp2.1\VehicleProject.csproj.CoreCompileInputs.cache
+F:\Vehicletrack\VehicleProject\VehicleProject\obj\Debug\netcoreapp2.1\VehicleProject.AssemblyInfoInputs.cache
+F:\Vehicletrack\VehicleProject\VehicleProject\obj\Debug\netcoreapp2.1\VehicleProject.AssemblyInfo.cs
+F:\Vehicletrack\VehicleProject\VehicleProject\obj\Debug\netcoreapp2.1\VehicleProject.csprojAssemblyReference.cache
+F:\Vehicletrack\VehicleProject\VehicleProject\obj\Debug\netcoreapp2.1\VehicleProject.RazorAssemblyInfo.cache
+F:\Vehicletrack\VehicleProject\VehicleProject\obj\Debug\netcoreapp2.1\VehicleProject.RazorAssemblyInfo.cs
+F:\Vehicletrack\VehicleProject\VehicleProject\bin\Debug\netcoreapp2.1\VehicleProject.deps.json
+F:\Vehicletrack\VehicleProject\VehicleProject\bin\Debug\netcoreapp2.1\VehicleProject.runtimeconfig.json
+F:\Vehicletrack\VehicleProject\VehicleProject\bin\Debug\netcoreapp2.1\VehicleProject.runtimeconfig.dev.json
+F:\Vehicletrack\VehicleProject\VehicleProject\bin\Debug\netcoreapp2.1\VehicleProject.dll
+F:\Vehicletrack\VehicleProject\VehicleProject\obj\Debug\netcoreapp2.1\VehicleProject.RazorTargetAssemblyInfo.cache
+F:\Vehicletrack\VehicleProject\VehicleProject\bin\Debug\netcoreapp2.1\VehicleProject.pdb
+F:\Vehicletrack\VehicleProject\VehicleProject\obj\Debug\netcoreapp2.1\VehicleProject.dll
+F:\Vehicletrack\VehicleProject\VehicleProject\obj\Debug\netcoreapp2.1\VehicleProject.pdb
